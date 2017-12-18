@@ -1,0 +1,2 @@
+# memorisklad
+mymemori
